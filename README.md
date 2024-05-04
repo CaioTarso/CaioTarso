@@ -1,4 +1,4 @@
-### Olá 👋
+### Olá! Eu sou Caio Tarso
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)](https://www.linkedin.com/in/caio-tarso-alencar-pianc%C3%B3-27b2ab1b2/)
 [![Gmail Badge](https://img.shields.io/badge/-caiotarso7@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiotarso7@gmail.com)](mailto:caiotarso7@gmail.com)
@@ -7,7 +7,7 @@
 ![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioTarso&show_icons=true&theme=tokyonight)
 
 
-## Me chamo Caio Tarso
+## 
 
 - 👩‍💻 Back-end developer
 - 🎓 Estudante de Sistemas de informação

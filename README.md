@@ -16,7 +16,7 @@
 ## Technologias
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,flask,javascript,html,css" />
+    <img src="https://skillicons.dev/icons?i=python,django,flask,javascript,html,css,mysql" />
   </a>
 </p>
 

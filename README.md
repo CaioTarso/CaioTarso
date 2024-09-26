@@ -13,12 +13,19 @@
 - 🎓 Estudante de Sistemas de informação
 - 🐍 Me aprofundando em Python
 
-## Technologies
+## Technologias
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,flask,javascript,html,css" />
+  </a>
+</p>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
+## Ferramentas
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,postman,vscode" />
+  </a>
+</p>
 <div align="left">
   
 [![CaioTarso top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioTarso&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)

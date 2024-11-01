@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-caiotarso7@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiotarso7@gmail.com)](mailto:caiotarso7@gmail.com)
 
 
-![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioTarso&show_icons=true&theme=tokyonight)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=CaioTarso&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true"/> <img width="50%" src="https://github-readme-stats.vercel.app/api?username=CaioTarso&show_icons=true&theme=dark&hide_border=true"/>
 
 
 ## 

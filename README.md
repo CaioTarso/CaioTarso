@@ -28,6 +28,5 @@
 </p>
 <div align="left">
   
-[![CaioTarso top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioTarso&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
 
  </div>

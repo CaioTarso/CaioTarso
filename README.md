@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)](https://www.linkedin.com/in/caio-tarso-alencar-pianc%C3%B3-27b2ab1b2/)
 [![Gmail Badge](https://img.shields.io/badge/-caiotarso7@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiotarso7@gmail.com)](mailto:caiotarso7@gmail.com)
-- 👩‍💻 Back-end developer
+- 👨🏻‍💻 Back-end developer
 - 🎓 Estudante de Sistemas de informação
 - 🐍 Me aprofundando em Python
 

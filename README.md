@@ -4,8 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-caiotarso7@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiotarso7@gmail.com)](mailto:caiotarso7@gmail.com)
 - 👨🏻‍💻 Back-end developer
 - 🎓 Estudante de Sistemas de informação
-- 🐍 Me aprofundando em Python
-
+- 🐘 Aprendendo PHP/Laravel
 
 
 
@@ -18,14 +17,14 @@
 ## Technologias
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,flask,javascript,html,css,tailwind,mysql" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,python,django,flask,javascript,html,css,tailwind,mysql" />
   </a>
 </p>
 
 ## Ferramentas
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,postman,vscode" />
+    <img src="https://skillicons.dev/icons?i=docker,git,postman,vscode" />
   </a>
 </p>
 <div align="left">

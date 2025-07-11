@@ -17,7 +17,7 @@
 ## Technologias
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,python,django,flask,javascript,html,css,tailwind,mysql" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,django,flask,javascript,ruby,tailwind,mysql" />
   </a>
 </p>
 

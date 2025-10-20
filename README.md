@@ -4,7 +4,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-caiotarso7@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiotarso7@gmail.com)](mailto:caiotarso7@gmail.com)
 - 👨🏻‍💻 Back-end developer
 - 🎓 Estudante de Sistemas de informação
-- 🐘 Aprendendo PHP/Laravel
 
 
 

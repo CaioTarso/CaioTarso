@@ -1,32 +1,28 @@
-### Olá! Eu sou Caio Tarso
+## About Me
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)](https://www.linkedin.com/in/caio-tarso-alencar-pianc%C3%B3-27b2ab1b2/)
-[![Gmail Badge](https://img.shields.io/badge/-caiotarso7@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiotarso7@gmail.com)](mailto:caiotarso7@gmail.com)
-- 👨🏻‍💻 Back-end developer
-- 🎓 Estudante de Sistemas de informação
+Back-end developer focused on building scalable APIs and well-structured systems.  
+Information Systems student, constantly improving in software architecture, databases, and clean code.
 
-
-
-## 
 
 <img height="144em" src="https://github-readme-stats.vercel.app/api?username=CaioTarso&show_icons=true&theme=transparent" />
 
 
 
-## Technologias
+##  Tech Stack
+
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,python,ruby,go,javascript,tailwind,mysql" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=php,laravel,ruby,rails,js,nodejs,vue,react,tailwind,postgres" />
 </p>
 
-## Ferramentas
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,postman,vscode" />
-  </a>
-</p>
-<div align="left">
-  
 
- </div>
+
+##  Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode" />
+</p>
+
+##  Contact with Me
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-tarso-alencar-pianc%C3%B3-27b2ab1b2/)](https://www.linkedin.com/in/caio-tarso-alencar-pianc%C3%B3-27b2ab1b2/)
+[![Gmail Badge](https://img.shields.io/badge/-Email-6633cc?style=flat-square&logo=gmail&logoColor=white&link=mailto:caiotarso7@gmail.com)](mailto:caiotarso7@gmail.com)

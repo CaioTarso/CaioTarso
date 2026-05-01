@@ -22,7 +22,7 @@ Information Systems student, constantly improving in software architecture, data
   <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode" />
 </p>
 
-##  Contact with Me
+##  Contact 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-tarso-alencar-pianc%C3%B3-27b2ab1b2/)](https://www.linkedin.com/in/caio-tarso-alencar-pianc%C3%B3-27b2ab1b2/)
 [![Gmail Badge](https://img.shields.io/badge/-Email-6633cc?style=flat-square&logo=gmail&logoColor=white&link=mailto:caiotarso7@gmail.com)](mailto:caiotarso7@gmail.com)

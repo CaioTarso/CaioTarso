@@ -1,6 +1,6 @@
 ## About Me
 
-Back-end developer focused in Ruby on Rails, focused on building scalable APIs and well-structured systems.  
+Back-end developer focused in Ruby on Rails, building scalable APIs and well-structured systems.  
 Information Systems student, continuously improving in software architecture, database design, and clean code.
 
 

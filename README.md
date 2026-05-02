@@ -10,7 +10,7 @@ Information Systems student, continuously improving in software architecture, da
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ruby,rails,postgres,php,laravel,js,nodejs,vue,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=ruby,rails,postgres,php,laravel,js,vue,react,tailwind" />
 </p>
 
 
